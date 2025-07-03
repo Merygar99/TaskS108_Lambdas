@@ -30,7 +30,7 @@ This repository explores the use of Lambda Expressions in Java—an essential fe
 
 ---
 
-🧰 **Tech Stack**ç
+🧰 **Tech Stack**
 
 - Language: Java 8 or higher
 
